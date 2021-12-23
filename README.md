@@ -27,7 +27,9 @@ To write a program to find the LU Decomposition of a matrix.
 
 3.Using "lu,piv=lu_factor(a)"
 
-4.End the progamme
+4
+
+5.End the progamme
 ## Program:
 ```
 /*
